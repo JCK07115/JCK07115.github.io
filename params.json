@@ -1,6 +1,6 @@
 {
-  "name": "Jck07115.GitHub.io",
-  "tagline": "Website for Senior Design I",
+  "name": "Rovocopter",
+  "tagline": "Senior Design I",
   "body": "<table style=\"width:100%\">\r\n  <tr>\r\n    <th>Project Name</th>\r\n    <td>Rovocopter</td>\r\n  </tr>\r\n  <tr>\r\n    <th>Team Members</th>\r\n    <td>Sholola, Oluwafunmiwo Judah</td>\r\n  </tr>\r\n  <tr>\r\n    <th>Faculty Sponsor</th>\r\n    <td>Eraldo Ribeiro</td>\r\n  </tr>\r\n</table>\r\n\r\n#First Semester\r\n<table style=\"width:100%\">\r\n  <tr>\r\n    <th>Plan</th>\r\n    <td> <a href=\"https://drive.google.com/file/d/0B2E_iIvrv8jkU2lqeFFHSnVSc1U/view?usp=sharing\" target=\"_blank\">Plan,</a> <a href=\"https://docs.google.com/presentation/d/12LamkEtpiv0810wTnboEJ6z2ZULW3xC-edUndTL0EPs/edit?usp=sharing\" target=\"_blank\">Presentation</a> </td>\r\n  </tr>\r\n  <tr>\r\n    <th>Milestone 1 (Oct 3)</th>\r\n    <td><a href=\"http://www.theuselessweb.com/\">Requirement, </a> <a href=\"https://www.theuselessweb.com\">Design, </a> <a href=\"https://www.theuselessweb.com\">Test, </a> <a href=\"https://www.theuselessweb.com\">Presentation, </a> <a href=\"https://www.theuselessweb.com\">Progress Evaluation</a></td>\r\n  </tr>\r\n  <tr>\r\n    <th>Milestone 2 (Oct 31)</th>\r\n    <td><a href=\"https://www.theuselessweb.com\">Presentation, </a> <a href=\"https://www.theuselessweb.com\">Progress Evaluation</a></td>\r\n  </tr>\r\n  <tr>\r\n    <th>Milestone 3 (Nov 28)</th>\r\n    <td><a href=\"https://www.theuselessweb.com\">Presentation, </a> <a href=\"https://www.theuselessweb.com\">Progress Evaluation</a></td>\r\n  </tr>\r\n</table>\r\n#Second Semester",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
